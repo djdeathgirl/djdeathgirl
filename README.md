@@ -4,14 +4,30 @@ I'm djdeathgirl, I'm a Gratuate who's just starting to learn Java. My main focus
 ### 🌱 I'm currently learning...
 - Java fundamentals, such as variables, loops, methods, etc...
 
-<!--### 🤔 Current projects
-I currently have two published projects which are:
-- [TownyWild](https://github.com/Agaloth/TownyWild/)
-- [SpawnerShutdown](https://github.com/Agaloth/SpawnerShutdown/) -->
+## Languages & Frameworks
+
+|     Languages I Know     | Frameworks I Know |
+|--------------------------|-------------------|
+| JavaScript (Node)        | Discord.js (Node) |
+| Java (Spigotapi)         |        Unity      |
+|           PHP            |                   |
+
+
+
 
 ### 💬 Ask me about...
 - My future projects
 - What I'm currently working on and how it's going
+
+
+
+
+
+
+<!--### 🤔 Current projects
+I currently have two published projects which are:
+- [TownyWild](https://github.com/Agaloth/TownyWild/)
+- [SpawnerShutdown](https://github.com/Agaloth/SpawnerShutdown/) -->
 
 <!--### 📫 How to reach me:
 - You can either add me on discord (Agaloth#4927) or [join my discord support server](https://discord.gg/yZtVRdqNJN) -->
