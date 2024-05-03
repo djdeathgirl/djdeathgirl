@@ -5,8 +5,15 @@ I'm djdeathgirl, I'm a Gratuate who's just starting to learn Java. My main focus
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djdeathgirl" alt="djdeathgirl" /></a> </p>
 
+
+
 ### 🌱 I'm currently learning...
 - Java fundamentals, such as variables, loops, methods, etc...
+
+
+
+## Things I Touched once
+[![My Skills](https://skillicons.dev/icons?i=java,discordjs,nodejs,discord,firebase,fediverse,github,gitlab,git,gmail,html,idea,js,instagram,kali,linkedin,linux,lua,mastodon,maven,npm,php,ps,mint,raspberrypi,robloxstudio,stackoverflow,sublime,svg,ubuntu,unity,windows,wordpress,vscode,visualstudio,css,cloudflare&theme=dark)](https://hire.techjunkyben.nl)
 
 ## Languages & Frameworks
 
